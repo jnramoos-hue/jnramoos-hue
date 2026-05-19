@@ -7,6 +7,21 @@ I'm a Brazilian student based in Ireland 🇮🇪, currently studying **Analysis
 My background in real operational environments taught me how systems, data, workflows and quality control work in practice. Now, I'm applying this mindset to backend development, databases, APIs and digital products.
 
 ---
+## 🛠️ Tech Stack
+
+### Languages & Backend
+
+[![My Skills](https://skillicons.dev/icons?i=python,java,javascript)](https://skillicons.dev)
+
+### Databases & Tools
+
+[![My Skills](https://skillicons.dev/icons?i=mysql,postgresql,git,github,figma)](https://skillicons.dev)
+
+### Development Environment
+
+[![My Skills](https://skillicons.dev/icons?i=pycharm,idea,vscode)](https://skillicons.dev)
+
+---
 
 ## 🚀 About Me
 
@@ -31,22 +46,6 @@ My background in real operational environments taught me how systems, data, work
 - Software Engineering
 - Database Modeling
 - Product Thinking
-
----
-
-## 🛠️ Tech Stack
-
-### Languages & Backend
-
-[![My Skills](https://skillicons.dev/icons?i=python,java,javascript)](https://skillicons.dev)
-
-### Databases & Tools
-
-[![My Skills](https://skillicons.dev/icons?i=mysql,postgresql,git,github,figma)](https://skillicons.dev)
-
-### Development Environment
-
-[![My Skills](https://skillicons.dev/icons?i=pycharm,idea,vscode)](https://skillicons.dev)
 
 ---
 
