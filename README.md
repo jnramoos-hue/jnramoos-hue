@@ -15,7 +15,7 @@ My background in real operational environments taught me how systems, data, work
 
 ### Databases & Tools
 
-[![My Skills](https://skillicons.dev/icons?i=mysql,postgresql,git,github,figma)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=mysql,git,github,figma)](https://skillicons.dev)
 
 ### Development Environment
 
