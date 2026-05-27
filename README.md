@@ -9,9 +9,9 @@ My background in real operational environments taught me how systems, data, work
 ---
 ## 🛠️ Tech Stack
 
-### Languages & Backend
+### Languages & 
 
-[![My Skills](https://skillicons.dev/icons?i=python,java,javascript)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,java,html,css,javascript)](https://skillicons.dev)
 
 ### Databases & Tools
 
