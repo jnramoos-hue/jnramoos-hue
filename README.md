@@ -2,9 +2,9 @@
 
 # Hi, I'm José da Silva Ramos Junior 👋
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2800&pause=900&color=2563EB&center=true&vCenter=true&width=900&lines=Front-end+Developer+in+Training;React+%7C+JavaScript+%7C+TypeScript+%7C+Tailwind+CSS;FIAP+ADS+Student+%7C+Building+my+portfolio+step+by+step;Learning+by+building+real+projects" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2600&pause=1000&color=2563EB&center=true&vCenter=true&width=950&lines=Learning+with+purpose.;Building+with+discipline.;Growing+through+every+project.;Creating+a+future+with+code.;For+family%2C+freedom+and+a+better+life." alt="Footer typing SVG" />
 
-### Front-end Developer in Training | React | JavaScript | TypeScript | Tailwind CSS | UX/UI | FIAP ADS Student
+### Front-end Developer in Training | HTML | CSS | JavaScript | Tailwind CSS | React | TypeScript
 
 📍 Ireland
 
@@ -396,7 +396,7 @@ This GitHub is not only about finished projects. It is also a public record of m
 
 ### Thanks for visiting my profile 🚀
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2600&pause=1000&color=2563EB&center=true&vCenter=true&width=700&lines=Learning+in+public.;Building+step+by+step.;Improving+one+project+at+a+time." alt="Footer typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2600&pause=1000&color=2563EB&center=true&vCenter=true&width=950&lines=Learning+with+purpose.;Building+with+discipline.;Growing+through+every+project.;Creating+a+future+with+code.;For+family%2C+freedom+and+a+better+life." alt="Footer typing SVG" />
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563EB,100:38BDF8&height=120&section=footer" alt="Footer wave" />
 
